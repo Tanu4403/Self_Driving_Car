@@ -1,3 +1,3 @@
 This is a self driving car
 
-Deployment : https://self-driving-car-hazel.vercel.app/
+Deployment : https://tanuja-self-driving-car.vercel.app/
